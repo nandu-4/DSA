@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/nandu-4/DSA/tree/master/0001-two-sum) |
+| [0118-pascals-triangle](https://github.com/nandu-4/DSA/tree/master/0118-pascals-triangle) |
 ## Hash Table
 |  |
 | ------- |
@@ -20,4 +21,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/nandu-4/DSA/tree/master/0242-valid-anagram) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0118-pascals-triangle](https://github.com/nandu-4/DSA/tree/master/0118-pascals-triangle) |
 <!---LeetCode Topics End-->
