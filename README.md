@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/nandu-4/DSA/tree/master/0001-two-sum) |
 | [0118-pascals-triangle](https://github.com/nandu-4/DSA/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/nandu-4/DSA/tree/master/0119-pascals-triangle-ii) |
+| [0228-summary-ranges](https://github.com/nandu-4/DSA/tree/master/0228-summary-ranges) |
 ## Hash Table
 |  |
 | ------- |
